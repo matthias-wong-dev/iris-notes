@@ -9,3 +9,8 @@
   background: #f7f5ef !important;
   color: #1a1a1a !important;
 }
+
+
+.section-title::before {
+    content: "" !important;
+}
