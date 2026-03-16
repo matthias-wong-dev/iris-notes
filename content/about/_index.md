@@ -10,4 +10,4 @@ The result is that organisations often find themselves diverging from their goal
 
 These notes look at data and AI not simply as assets, but as part of an organisation’s interface with a changing world.
 
-The notes are maintained by [Matthias Wong](https://www.matthiaswong.me) as part of a broader research program.
+They are part of a broader research program on the philosophy of agency, attention, and absence run by [Matthias Wong](https://www.matthiaswong.me).
