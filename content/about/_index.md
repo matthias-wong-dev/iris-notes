@@ -1,6 +1,10 @@
 Murdoch Notes are observations from working inside complex systems.
 
-They examine a recurring problem: organisations often become stuck and lose the ability to perceive the reality around them. Data is frequently introduced as a remedy, yet many organisations struggle to derive value from it. Recent developments in artificial intelligence have made this both easier and harder: easier to generate information, harder to see clearly.
+The notes examine a recurring problem: organisations often become stuck and lose the ability to perceive the reality around them.
+
+Data is frequently introduced as a remedy, and yet many struggle to derive value from it.
+
+Developments in AI have made some organisations more capable, but for many it becomes another source of confusion.
 
 The result is that organisations often find themselves diverging from their goals without noticing it.
 
