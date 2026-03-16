@@ -1,6 +1,6 @@
 Murdoch Notes are observations from working inside complex systems.
 
-The notes examine a recurring problem: organisations often become stuck and lose the ability to perceive the reality around them.
+The notes examine a recurring problem: organisations often become stuck and lose the ability to respond coherently to the reality around them.
 
 Data is frequently introduced as a remedy, and yet many struggle to derive value from it.
 
@@ -10,4 +10,4 @@ The result is that organisations often find themselves diverging from their goal
 
 These notes look at data and AI not simply as assets, but as part of an organisation’s interface with a changing world.
 
-They are part of a broader research program on the philosophy of agency, attention, and absence run by [Matthias Wong](https://www.matthiaswong.me).
+They are part of a broader research program conducted by [Matthias Wong](https://www.matthiaswong.me) on the philosophy of agency, attention, and absence.
