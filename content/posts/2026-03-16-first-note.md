@@ -10,4 +10,4 @@ math: false
 draft: false
 ---
 
-Murdoch Notes is live.
+Hello World. Murdoch Notes is live.
