@@ -20,6 +20,7 @@ params:
   comments:
     enabled: false
   meta:
+    image: "images/meta.png"
     description: "Notes on data, organisations, AI, and related questions."
 
 menus:
