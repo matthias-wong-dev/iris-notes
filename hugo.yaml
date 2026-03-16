@@ -14,7 +14,7 @@ pagination:
 
 params:
   author: "Matthias Wong"
-  image: ["images/meta.png"]
+  images: ["images/meta.png"]
   logoImg: false
   logoInvert: false
   math: false
