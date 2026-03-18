@@ -39,13 +39,17 @@ This is not an organisation that had no contact with reality. It is one in which
 A person with a blind spot may simply not see.  
 An organisation often does see, in fragments, across many people, dashboards, escalations, reviews, complaints, and advisors. But what it cannot do is gather these into an operative recognition that changes direction.
 
-So organisations do have blind spots. But their blindness is not a simple absence of awareness. It is a structural condition in which signals of failure do not correct because they are could not be understood.
+So organisations do have blind spots. But their blindness is not a simple absence of awareness. It is a structural condition in which signals of failure do not correct because _they could not be understood_.
 
 A precise definition would be:
 
-_An organisational blind spot exists when persistent signals of failure are absorbed by its structures in ways that prevent them from turning into corrective action._
+_An organisational blind spot exists when persistent signals of failure are structurally absorbed in ways that prevent them from becoming decisive corrective action._
 
 
 So the next question is: 
+
+_"Why do they occur?"_
+
+and
 
 _"What can we do about it?"_
