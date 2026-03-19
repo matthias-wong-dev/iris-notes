@@ -52,6 +52,6 @@ So the next question is:
 
 _"Why do they occur?"_
 
-and
+and then
 
 _"What can we do about it?"_
