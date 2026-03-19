@@ -47,7 +47,6 @@ A precise definition would be:
 
 _An organisational blind spot exists when persistent signals of failure are structurally absorbed in ways that prevent them from becoming decisive corrective action._
 
-
 So the next question is: 
 
 _"Why do they occur?"_
