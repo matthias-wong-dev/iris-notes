@@ -33,6 +33,30 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/imgs/favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/imgs/apple-touch-icon.png">
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Murdoch Notes",
+  "url": "https://murdochnotes.com",
+  "author": {
+    "@type": "Person",
+    "name": "Matthias Wong",
+    "url": "https://matthiaswong.me",
+    "sameAs": [
+      "https://matthiaswong.me",
+      "https://www.linkedin.com/in/dr-matthias-wong-9195263a9",
+      "https://www.instagram.com/matthias.light",
+      "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10008096",
+      "https://thisfairyland.land"
+    ]
+  }
+}
+</script>
+
+
+
 {{ with resources.Get "/assets/scss/custom.scss" }}
 {{ if eq hugo.Environment "development" }}
 {{ with . | toCSS | minify }}
