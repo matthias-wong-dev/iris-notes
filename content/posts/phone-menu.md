@@ -19,7 +19,7 @@ What it shows is that *structures define what counts as a problem*.
 
 The same happens when an organisation concerned with safety is structured around compliance of components, a health system divided into mental or physical health, or an environment department into animal or plant. An issue that is "unsafe but compliant" could not be recognised.
 
-This was visible in the Grenfell Tower fire. The cladding was highly combustible, yet counted as compliant under the prevailing Class 0 regime. While it later emerged that fraudulent and misleading behaviour by manufacturers had distorted test results, this is not the deepest point. Even if the material were somehow compliant, the system had no mechanism to say: ‘It burns dangerously, so what if it is compliant—we must act anyway.’
+This was visible in the Grenfell Tower fire. The cladding was highly combustible, yet counted as compliant under the prevailing Class 0 regime. While it later emerged that fraudulent and misleading behaviour by manufacturers had distorted test results, this is not the deepest point. Even if the material were somehow compliant, the system had no mechanism to say: "It burns dangerously, so what if it is compliant—we must act anyway."
 
 In other words, the organisation, structured around compliance, made it difficult to handle signals that did not fit into its categories.
 
