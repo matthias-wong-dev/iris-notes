@@ -52,7 +52,7 @@ Opting for a vendor diffuses responsibility for risk. Yes, it would be possible 
 
 The point is not to neglect safety. Keeping teams safe is vital. And clear processes are fundamental to a functioning organisation. 
 
-Rather, the point is that safety and learning pull in different directions. Learning requires exposure to difficult reality—the very thing safety mechanisms are designed to shield us from.
+Rather, the point is that safety and learning often pull in different directions. Learning requires exposure to difficult reality—the very thing safety mechanisms are designed to shield us from.
 
 The task, then, is not to abandon safety, but to recognise this tension and actively negotiate it.
 
