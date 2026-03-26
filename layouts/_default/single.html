@@ -33,6 +33,22 @@
 
 {{ .Content }}
 
+{{ if eq .Section "posts" }}
+<br><br>
+<nav class="post-nav">
+  {{ with .PrevInSection }}
+    <a class="prev" href="{{ .Permalink }}">← {{ .Title }}</a>
+  {{ end }}
+  {{ with .NextInSection }}
+    <a class="next" href="{{ .Permalink }}">{{ .Title }} →</a>
+  {{ end }}
+</nav>
+{{ end }}
+
+{{ if .Site.Params.comments.enabled }}
+  {{ partial "comments.html" . }}
+{{ end }}
+
 {{ with .Params.license }}
 <div class="article-license">
   {{ $dynamicContent := safeHTML (printf (index $.Site.Data.l10n "license") $.Params.license_url) }}
@@ -40,6 +56,7 @@
   <span>{{ $renderedContent | safeHTML }}.</span>
 </div>
 {{ end }}
+
 
 {{ if .Site.Params.comments.enabled }}
   {{ partial "comments.html" . }}
