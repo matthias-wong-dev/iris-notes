@@ -58,4 +58,4 @@ The task, then, is not to abandon safety, but to recognise this tension and acti
 
 To ask, in each decision:
 
-*"Are we optimising for safety, or optimising for outcome?"*
+*"Are we optimising for safety, or optimising for outcome? Is it possible to do both?"*
