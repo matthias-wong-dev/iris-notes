@@ -29,7 +29,7 @@ When a person calls a phone menu and is sent in circles, that person will usuall
 
 Most problems are not like that. Disasters and systemic failures are often preceded by continuous, weak, and passive signals. Such signals are either sidelined because they do not fit anywhere, or trimmed into a local problem for the team that happens to receive them.
 
-Seen in this way, [all structures create blind spots]({{< relref "blind-spots.md" >}}) by imposing a grammar for what counts as a problem. Signals of faults struggle to turn into decisive action because they are dropped, resisted, misinterpreted, or otherwise absorbed.
+Seen in this way, all structures create [blind spots]({{< relref "blind-spots.md" >}}) by imposing a grammar for what counts as a problem. Signals of faults struggle to turn into decisive action because they are dropped, resisted, misinterpreted, or otherwise absorbed.
 
 The phone menu also provides a hint of a solution. If all structures create blind spots, then one response is to have a team (or individuals) with the mandate to assess signals unmediated by any structure. This is the equivalent of the “Press 0 for any other enquiries.”
 
