@@ -12,7 +12,7 @@ tags:
 ---
 Consider a manager faced with this decision: a team member has created software that solves a difficult organisational problem far better than anything available in the market. But relying on it would create a risk: dependence on an individual. Do you adopt it, or do you choose the inferior vendor product for maintainability?
 
-One of the unspoken realities of organisations is that the need for safety governs far more than is visible at first glance.
+One of the unspoken realities of organisations is that the need for safety governs far more than is visible.
 
 I know this personally. When an incident occurs—say, a wrong number is reported in a high-profile context—the first question that appears is: *Was I responsible?* It takes effort to set that aside and turn instead to the questions that matter: *What is the impact? What now needs to be done?*
 
@@ -48,10 +48,12 @@ The need for safety does not merely create blind spots—it pushes organisations
 
 This appears in small decisions. Opting for a vendor diffuses responsibility for risk. It would be possible to say: *this capability matters enough that we will build the capacity to own its risks ourselves.* But doing so concentrates exposure.
 
-This is not to say that in-house code is always better than vendor software. Nor is it to say that safety is not vital.
+The point is not to neglect safety. Keeping teams safe is vital. And clear processes are fundamental to a functioning organisation. 
 
-Rather, the point is to ask:
+Rather, the point is that safety and learning pull in different directions. Learning requires exposure to reality—the very thing safety mechanisms are designed to shield us from.
 
-"*Are we optimising for safety, or optimising for outcome?*"
+The task, then, is not to abandon safety, but to recognise this tension and actively negotiate it.
 
-If this is not decided consciously, the need for safety will decide on our behalf.
+To ask, in each decision:
+
+*"Are we optimising for safety, or optimising for outcome?"*
