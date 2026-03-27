@@ -46,7 +46,7 @@ When a person needs to feel safe, one way is to avoid exposure to threats; the o
 
 The latter is what organisations in high-stakes environments do. High reliability organisations—such as nuclear power, emergency medicine, and naval aviation—operate on [five principles](https://en.wikipedia.org/wiki/High_reliability_organization): preoccupation with failure, reluctance to simplify, sensitivity to operations, commitment to resilience, and deference to expertise.
 
-These principles point has a consistent direction: exposing the organisation to complex reality, rather than trying to contain it to what the organisation can handle.
+These principles point in a consistent direction: exposing the organisation to complex reality, rather than trying to contain it to what the organisation can handle.
 
 This should not be surprising. Learning requires exposure to pain. Some forms of safety avoid it; others build the capacity to face it. What creates blind spots, then, is not the need for safety itself, but the avoidance of pain.
 
