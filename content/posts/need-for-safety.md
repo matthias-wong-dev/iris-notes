@@ -54,4 +54,8 @@ This appears in small decisions as well. Opting for the vendor contains the risk
 
 In decisions like these, an underlying question is always:
 
-*"Are we optimising for safety, or optimising for outcome? And is it possible to do both?"*
+*"Are we optimising for safety, or optimising for outcome?"* 
+
+and 
+
+*"Is it possible to do both?"*
