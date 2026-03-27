@@ -1,4 +1,4 @@
-Murdoch Notes are observations from working inside complex systems.
+Iris Notes are observations from working inside complex systems.
 
 The notes examine a recurring problem: organisations often become stuck and lose the ability to respond coherently to the reality around them.
 
@@ -10,4 +10,4 @@ These notes look at an organisation's _perception of reality_. From this perspec
 
 If you are here for the first time, you can start with [Can organisations have blind spots?]({{< relref "blind-spots.md" >}})
 
-Murdoch Notes are named after Iris Murdoch. They are part of a broader research program conducted by [Matthias Wong](https://matthiaswong.me) on the philosophy of agency, attention, and absence.
+Iris Notes are named after Iris Murdoch. They are part of a broader research program conducted by [Matthias Wong](https://matthiaswong.me) on the philosophy of agency, attention, and absence.

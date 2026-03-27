@@ -1,6 +1,6 @@
-baseURL: "https://murdochnotes.com/"
+baseURL: "https://irisnotes.com/"
 languageCode: "en-au"
-title: "Murdoch Notes"
+title: "Iris Notes"
 theme: "vortisil"
 copyright: "Matthias Wong"
 hasCJKLanguage: true
