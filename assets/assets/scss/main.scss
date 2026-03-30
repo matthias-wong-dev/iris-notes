@@ -218,3 +218,8 @@ div.code-wrapper {
 .section-title::before {
     content: "" !important;
 }
+
+hr {
+    border: none;
+    border-top: 1px solid rgba(128, 128, 128, 0.3);
+}
