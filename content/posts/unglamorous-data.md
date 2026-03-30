@@ -25,11 +25,11 @@ From this perspective, glamorous data is the ability to *see interesting things*
 
 I call this unglamorous because, like ordinary eyesight, it is only noticed when it is failing—no one pays attention to their eyes unless something is wrong. In the same way, when unglamorous data is missing, staff complain about disjointed processes, duplication of effort, siloed information. But when unglamorous data is operative, users are not talking about the data any more: they are back to getting the work done.
 
-At the most fundamental—but not least—level, unglamorous data appears in small, unremarkable ways in the organisation’s workflows: the finance team receiving notice when invoices are due and teams staying in sync about incidents..
+At the most fundamental level, unglamorous data appears in small, unremarkable ways in the organisation’s workflows: the finance team receiving notice when invoices are due and teams staying in sync about incidents..
 
 One level higher, the organisation begins to see its business represented in forms it recognises, and can actively interrogate. The interrogation is a slow form of seeing—like when a person looks across different parts of a picture. What is seen may not be anything “insightful” in the ordinary sense, but it is a faithful reflection of what is happening.
 
-Even though the ability to see through data may not *reveal* anything profound, it *is* profound. Once the business can see their processes encoded in stable, faithful form, they being to ask "Why are we doing this? What happened here? What caused this change? What can we do differently?"
+Even though the ability to see through data may not *reveal* anything profound, it *is* profound. Once the business can see their processes encoded in stable, faithful form, they begin to ask "Why are we doing this? What happened here? What caused this change? What can we do differently?"
 
 Without this visibility, the answers to these questions are anecdotal and hard to verify.
 
@@ -45,11 +45,12 @@ In those situations, the work is not to produce new insight, but to reconstruct 
 
 There is no glamour in eliminating a false narrative, but it is exactly the capability necessary in an organisation dealing with high-stakes situations: and this is what unglamorous data—data that is silently operative and faithfully representing the business—provides.
 
+Unglamorous data is also where many organisations go astray. Organisations often invest significantly in data capability, yet find the value is slow to materialise  
 
-Unglamorous data is also where many organisations go astray. Significant investment is made into data capability, yet the value does not seem to materialise.
+This is because the organisation asking the data to be *insightful*—and disappointed to find it is not—whereas the work is to make the data *faithful*, and then *operable*. The correct expectation changes how leadership measure, and evaluate, the success of data capability. 
 
-This is because they are asking the data to be *insightful*—and disappointed to find it is not—whereas the need is to ensure that data is *operable*. Data that may seem insignificant but meaningfully operative is more valuable to an organisation than significant data sitting in a data team.
+> Data does not need to be impressive for it to be important.
 
-Glamorous data—data that is insightful—is important. Unglamorous data—ordinary data that is meaningfully operative—is equally so.
+Glamorous data is important. Unglamorous data—ordinary data that is meaningfully operative—is equally so.
 
 Data is the eyes and ears of modern organisations. At scale, it is the means by which [reality remains visible]({{< relref "blind-spots.md" >}}).
