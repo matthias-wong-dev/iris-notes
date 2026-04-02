@@ -55,7 +55,7 @@ Organisations invest significantly in data capability, yet find the value slow t
 
 > Data does not need to be impressive to be important.
 
-Leaders, particularly those with strong vision, will naturally be drawn to glamorous data. It is part of how organisations move forward. And in my experience, they are often the same people who recognise the value in data when it is not. The key is to recognise that one is not merely a step to the other. The correct expectation may mean the difference to whether data capability can take off.
+Leaders, particularly those with strong vision, will naturally be drawn to glamorous data. It is part of how organisations move forward. In my experience, they are often the same people who recognise its value when it is simply operative. Such leaders set the correct expectation: enabling and protecting data capability to take off.
 
 Data is the eyes and ears of modern organisations. At scale, it is the only means by which reality remains visible.
 
