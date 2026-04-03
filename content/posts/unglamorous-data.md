@@ -1,6 +1,6 @@
 ---
 title: Unglamorous data
-date: 2026-04-08T10:30:00+11:00
+date: 2026-04-14T10:30:00+11:00
 lastmodified: ""
 author: Matthias Wong
 cover: /assets/imgs/unglamorous-data.png
@@ -49,16 +49,21 @@ Nor is it easy. Simple-but-false narratives are attractive because they are simp
 
 It is the ability to detect: *this is not what is happening*—and to show why—before the organisation makes costly mistakes without knowing it. This is what such data provides.
 
-Underestimating unglamorous data is where many organisations go astray. 
+Underestimating unglamorous data is where many organisations go astray.
 
-Organisations invest significantly in data capability, yet find the value slow to materialise. This is because the data is being asked to be *insightful*. Whereas the deepest work with data is first to make it first *faithful*, *legible*, and *operable*.
+Organisations invest significantly in data capability, yet find the value slow to materialise. This is often because data is being asked to be *insightful*, whereas the deeper work is to make it *faithful*, *legible*, and *operable*.
 
 > Data does not need to be impressive to be important.
 
-Leaders, particularly those with strong vision, will naturally be drawn to glamorous data. It is part of how organisations move forward. In my experience, they are often the same people who recognise its value when it is simply operative. Such leaders set the correct expectation: enabling and protecting data capability to take off.
+This also explains why even strong data initiatives can falter over time. In the early stages, organisations gain visibility over operations that were not previously accessible. These early wins reinforce the expectation that data will continue to produce insight.
 
-Data is the eyes and ears of modern organisations. At scale, it is the only means by which reality remains visible.
+But as those outputs become integrated into everyday workflows, what once appeared impressive begins to look ordinary—even as it becomes more critical. The investment value becomes harder to recognise.
 
+Paradoxically, the more capable the team, the more likely this transition occurs. Organisations that do not consciously manage the shift from what is impressive to what is important can become victims of their own success.
+
+This is not to suggest that glamorous data is unimportant—insight remains one of the clearest paths to breakthrough. The risk is in confusing insight with visibility.
+
+Data is the eyes and ears of modern organisations. At scale, it is the means by which reality remains visible.
 
 ---
 
