@@ -47,19 +47,19 @@ There is no glamour in removing a false narrative.
 
 Nor is it easy. Simple-but-false narratives are attractive because they are simple. Moving people from a simple idea to a less obvious explanation, which they may already have committed to, is a capability most organisations have not even named.
 
-It is the ability to detect: *this is not what is happening*—and to show why—before the organisation makes costly mistakes without knowing it. This is what such data provides.
+It is the ability to detect: *this is not what is happening*—and to show why—before the organisation makes costly mistakes without knowing it. This is what expert use of data allows.
 
-Underestimating unglamorous data is where many organisations go astray.
+Misunderstanding unglamorous data is where many organisations go astray.
 
 Organisations invest significantly in data capability, yet find the value slow to materialise. This is often because data is being asked to be *insightful*, whereas the deeper work is to make it *faithful,* *legible*, and *operable*.
 
 > Data does not need to be impressive to be important.
 
-This also explains why even strong data initiatives can falter over time. In the early stages, there Is a sense of progress as organisations gain visibility that were previously inaccessible. But as those outputs become integrated into everyday workflows, what once appeared impressive begins to look ordinary—even as it becomes more critical. The value becomes harder to recognise.
+This also explains why even strong data initiatives can falter over time. In the early stages, there Is a sense of progress as organisations gain visibility that were previously inaccessible. But as those outputs become integrated into everyday workflows, what once appeared impressive begins to look ordinary—even as it becomes more critical. Sustained value becomes harder to recognise.
 
 Paradoxically, the more capable the team, the more likely this transition occurs.
 
-This is not to suggest that glamorous data is unimportant—insight remains one of the clearest paths to breakthrough. The risk is in confusing insight with visibility.
+This is not to suggest that glamorous data is unimportant—insight remains one of the clearest paths to breakthrough. Rather, the risk is confusing insight with visibility.
 
 Data is the eyes and ears of modern organisations. At scale, it is the means by which reality remains visible.
 
