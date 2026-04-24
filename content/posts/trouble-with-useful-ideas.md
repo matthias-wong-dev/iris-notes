@@ -12,7 +12,7 @@ tags:
   - "#frameworks"
 ---
 
-Complex organisations need to organise themselves in some way. Reasonably enough, rather than doing so from scratch, they adopt standardised frameworks. Millions, and sometimes hundreds of millions, can depend on whether one is using Scrum, PRINCE2, OKRs, or one of the many alternatives.
+Complex organisations need to organise themselves in some way. Reasonably enough, rather than doing so from scratch, they adopt standardised frameworks. Millions, and sometimes hundreds of millions of dollars, can depend on whether an organisation adopts Scrum, PRINCE2, OKRs, or one of the many alternatives.
 
 Consequently, the defensiveness around frameworks deserves study: not particular frameworks, but defensiveness around frameworks in general. And not the fact that people get defensive, which is unsurprising, but *the way the defensiveness plays out*.
 
@@ -32,7 +32,7 @@ The interesting thing is not that they critique their creations. Who has not som
 
 He called this *the machine trap*: design methods becoming a “toolkit of rigid methods” that forced professionals to act like “machines”.
 
-The shared criticism is that their methods became rigid and ossified. To these creators, the framework had opened new ways of doing things that respected the complexity of reality, especially where previous frameworks had closed it off. But over time, their own frameworks began closing reality off themselves.
+The shared criticism is that their methods became rigid and ossified. To these creators, the framework had opened a way of working that better respected the complexity of reality, especially where previous methods had closed it off. But over time, those same frameworks began to close reality off.
 
 This is most telling in *how* adherents defend them. In a typical conversation, when a client questions the framework—“I think Agile is setting us back here”—the response is often: “You are not doing Agile properly.” That is, the cure for the problems of the framework is *more of the framework*.
 
